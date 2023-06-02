@@ -9,6 +9,7 @@ import { Recipe } from '../recipe.model';
 })
 export class RecipeListComponent {
   recipes: Recipe[] = [
+    new Recipe('A Test Recipe', 'This is a test', 'https://www.sunoko.rs/recepti/wp-content/uploads/sites/3/shutterstock_515513989-400x350.jpg'),
     new Recipe('A Test Recipe', 'This is a test', 'https://www.sunoko.rs/recepti/wp-content/uploads/sites/3/shutterstock_515513989-400x350.jpg')
   ];
 }
