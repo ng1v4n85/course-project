@@ -12,7 +12,7 @@ export class RecipeService {
         new Recipe(
             'Schnitzel', 
             'Just awesome', 
-            'https://www.sunoko.rs/recepti/wp-content/uploads/sites/3/shutterstock_515513989-400x350.jpg',
+            'https://www.najbolji-recepti.com/wp-content/uploads/2015/04/becka-snicla1.jpg',
             [
                 new Ingredient('Meat', 1),
                 new Ingredient('French Fries', 20)
@@ -20,7 +20,7 @@ export class RecipeService {
         new Recipe(
             'Burger', 
             'A super tasty burger', 
-            'https://www.sunoko.rs/recepti/wp-content/uploads/sites/3/shutterstock_515513989-400x350.jpg',
+            'https://www.thecookierookie.com/wp-content/uploads/2023/04/featured-stovetop-burgers-recipe.jpg',
             [
                 new Ingredient('Buns', 2),
                 new Ingredient('Meat', 1)
